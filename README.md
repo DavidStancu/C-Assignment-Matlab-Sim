@@ -1,2 +1,0 @@
-# C-Assignment-Matlab-Sim
--
